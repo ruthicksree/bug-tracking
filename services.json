@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "572445467813",
+    "firebase_url": "https://bug-tracking-e564e-default-rtdb.firebaseio.com",
+    "project_id": "bug-tracking-e564e",
+    "storage_bucket": "bug-tracking-e564e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572445467813:android:c2884739f997a45960594c",
+        "android_client_info": {
+          "package_name": "bugtrack.app.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEvvAJ0_oRt8bKlZKtXKD5g13vd69I5Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
